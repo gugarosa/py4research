@@ -1,0 +1,19 @@
+\babel@toc {brazil}{}
+\beamer@sectionintoc {1}{Introdu\IeC {\c c}\IeC {\~a}o}{4}{0}{1}
+\beamer@sectionintoc {2}{Visibilidade}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{O que \IeC {\'e}?}{7}{0}{2}
+\beamer@subsectionintoc {2}{2}{Por que investir?}{8}{0}{2}
+\beamer@subsectionintoc {2}{3}{Como ampliar?}{9}{0}{2}
+\beamer@sectionintoc {3}{Comunidade acad\IeC {\^e}mica}{10}{0}{3}
+\beamer@subsectionintoc {3}{1}{Reprodutibilidade e integridade}{12}{0}{3}
+\beamer@subsectionintoc {3}{2}{Impacto social}{13}{0}{3}
+\beamer@sectionintoc {4}{Compartilhamento p\IeC {\'u}blico}{14}{0}{4}
+\beamer@subsectionintoc {4}{1}{Pr\IeC {\'e}-publica\IeC {\c c}\IeC {\~a}o}{16}{0}{4}
+\beamer@subsectionintoc {4}{2}{C\IeC {\'o}digo aberto}{17}{0}{4}
+\beamer@subsectionintoc {4}{3}{Ferramentas gratuitas}{18}{0}{4}
+\beamer@sectionintoc {5}{Aplica\IeC {\c c}\IeC {\~a}o pr\IeC {\'a}tica em Python}{19}{0}{5}
+\beamer@subsectionintoc {5}{1}{Cria\IeC {\c c}\IeC {\~a}o de reposit\IeC {\'o}rio}{21}{0}{5}
+\beamer@subsectionintoc {5}{2}{Implementa\IeC {\c c}\IeC {\~a}o}{22}{0}{5}
+\beamer@subsectionintoc {5}{3}{Submiss\IeC {\~a}o ao PyPI}{23}{0}{5}
+\beamer@subsectionintoc {5}{4}{Locais de divulga\IeC {\c c}\IeC {\~a}o}{24}{0}{5}
+\beamer@sectionintoc {6}{Conclus\IeC {\~a}o}{25}{0}{6}
