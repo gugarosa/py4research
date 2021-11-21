@@ -1,6 +1,7 @@
 # Additional files
 **/*.DS_Store
 **/*.pdf
+**/.texpadtmp
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
