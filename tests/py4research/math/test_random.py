@@ -10,9 +10,9 @@ def test_generate_integer_random_number():
 
     assert integer_array.shape == (5, )
 
-    integer_array = random.generate_integer_random_number(0, 10, 1, 9)
+    integer_array = random.generate_integer_random_number(0, 2, 1, 1)
 
-    assert integer_array.shape == (9, )
+    assert integer_array.shape == (1, )
 
 
 def test_generate_gaussian_random_number():
