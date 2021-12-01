@@ -40,6 +40,36 @@ The tutorial is written in Portuguese in a slide-based format. The contents are 
 
 Py4research is a standard package composed of a single `math` module composed of two sub-modules: `clustering` and `random`. Essentially, the idea is to provide a simple framework that can foster research and help the community deploy their official implementations to PyPI.
 
+### Documentation
+
+Every good code should come with information on how to use it, correct? Documentation is pretty straightforward to be built, as follows:
+
+```
+cd docs
+pip install -r requirements.txt
+```
+
+After entering the documentation folder and installing the required dependencies, one can build its HTML version:
+
+```
+make clean
+make html
+```
+
+The HTML will be available inside a `_build` folder, inside the `docs` folder.
+
+### Unitary Tests
+
+The first method that we offer is running solo the pytest command. This will realize all the implemented tests and return an output declaring whether they passed or failed.
+
+```pytest tests/```
+
+An exciting addition to the solo pytest is the coverage module. Despite offering the same outputs from the pytest, it will also offer a report that documents how much the tests cover percent of the code.
+
+```coverage run -m pytest tests/```
+
+```coverage report -m```
+
 ---
 
 ## Support
